@@ -1,0 +1,1 @@
+alert("Đây là một cảnh báo");
